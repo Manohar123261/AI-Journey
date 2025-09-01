@@ -1,2 +1,12 @@
-# AI-Journey
-A 6-month journey to become a future-ready AI &amp; Automation Software Engineer. Includes daily coding practice (DSA), machine learning experiments, deep learning projects, and MLOps + AI agent implementations.
+# 🚀 AI Journey
+
+This repository documents my 6-month roadmap to becoming a future-ready **AI & Automation Software Engineer**.  
+It includes daily progress on:
+
+- 🔢 **DSA Practice** – solving problems to strengthen problem-solving skills.  
+- 🤖 **Machine Learning** – implementing algorithms from scratch and with libraries.  
+- 🧠 **Deep Learning & NLP** – projects with PyTorch and Hugging Face.  
+- ⚙️ **MLOps** – pipelines, deployment, monitoring, CI/CD.  
+- 🤝 **AI Agents & Automation** – building practical AI-driven workflows.  
+
+## 📅 Structure
