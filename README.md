@@ -24,3 +24,9 @@ I’ll use this repo to track my progress, practice commands, build projects, an
 - [ ] Setup AWS Free Tier account  
 - [ ] Deploy first project on AWS  
 - [ ] Automate deployment with CI/CD  
+
+# Some Commands
+cd Cloud-DevOps-Journey
+cd 01-DevOps-Basics
+cd docker
+cd hello-docker
